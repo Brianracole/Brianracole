@@ -10,8 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Brianracole/Configure-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Brianracole/azure-network-protocols)
 
+- <b>Exploring Azure and Networking Concepts</b>
 <h2>🤳Connect with me:</h2>
-
 [<img align="left" alt="Brian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Brian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Brian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
