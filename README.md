@@ -2,18 +2,17 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Building a Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Brianracole/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Brianracole/post-install-config)
-  - [osTicket: Ticket Lifecycle](https://github.com/Brianracole/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/Brianracole/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Brianracole/Configure-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Brianracole/azure-network-protocols)
-
-- <b>Exploring Azure and Networking Concepts</b>
+  - [Basic DNS Configuration & Testing](https://github.com/Brianracole/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
 [<img align="left" alt="Brian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Brian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Brian | LinkedIn" width="22px" src="(https://www.linkedin.com/in/brian-cole-4b3b51332)" />][linkedin]
 [<img align="left" alt="Brian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
