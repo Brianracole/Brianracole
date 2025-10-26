@@ -1,5 +1,9 @@
 <h1>Hi, I'm Brian, an <a href="https://linkedin.com/in/brian-cole-4b3b51332/">IT Professional</a>☺</h1>
 
+<h2> Certifications</h2>
+<b>CompTIA A+</b>
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Building a Help Desk Ticketing System)</b>
