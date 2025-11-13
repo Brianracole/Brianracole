@@ -3,6 +3,8 @@
 <h2> Certifications</h2>
 <b>CompTIA A+</b> <code>██████ 50%</code>
 
+<b>Google IT Support Professional Certificate</b> <code>
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
