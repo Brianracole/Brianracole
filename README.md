@@ -16,4 +16,4 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Brianracole/Configure-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Brianracole/azure-network-protocols)
   - [Basic DNS Configuration & Testing](https://github.com/Brianracole/azure-network-protocols)
-
+- <b>Windows Troubleshooting
